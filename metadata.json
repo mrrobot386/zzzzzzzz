@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live",
+  "description": "Real-time voice and video multimodal conversation with Gemini Live AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
